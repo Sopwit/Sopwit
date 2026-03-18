@@ -1,3 +1,14 @@
-## Hi 👋, I'm Emir
+# Hi, I'm Emir
 
-I'm a Computer Engineering student on Bozok University.
+Computer Engineering student at Bozok University, focused on improving in software development and building practical projects.
+
+## About Me
+- I enjoy learning by building real projects.
+- I’m currently working on improving my backend and full-stack skills.
+- I care about clean code, problem solving, and continuous growth.
+
+## Tech Stack
+- Languages: C, C++, Java, JavaScript, Python
+- Web: HTML, CSS, React, Node.js
+- Database: MySQL, PostgreSQL
+- Tools: Git, GitHub, VS Code
