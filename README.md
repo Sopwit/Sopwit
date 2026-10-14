@@ -7,6 +7,6 @@ Computer Engineering student at Bozok University, focused on improving in softwa
 - I care about clean code, problem solving, and continuous growth.
 
 ## Tech Stack
-- Languages: C, C++
+- Languages: C, C#, C++
 - Web: HTML, CSS
 - Database: MySQL, PostgreSQL
